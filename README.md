@@ -1,4 +1,4 @@
 # Hintergrundbild--ndern-linuxmint
-Dieses cod last eur Hintergund auf eueren Linux Rechner Automatich ändert.
+Dieses Bash-Script macht euer Hintergund Dynamisch
 
 "Ihr Bild" änder zu ihren Bild pfad
